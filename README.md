@@ -25,7 +25,8 @@ You can download the original datasource here: [Movie Dataset Excel file](https:
 ### Data Cleaning and Preparation
 - Data loading and inspection
 - Handling errors and missing values
-- Data cleaning and formatting. The excel file after the data cleaning and preparation process can be downloaded here: [Ready to use Dashboard]
+- Data cleaning and formatting. The excel file after the data cleaning and preparation process can be downloaded here: [Movie Dashboard](https://github.com/user-attachments/files/28029748/Movie_Dashboard.xlsx)
+
 ### Questions for Data Analysis
 1. Which top 10 genres were the most successful (Box) these years?
 2. Which top 5 actors were the most successful?
