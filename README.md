@@ -32,3 +32,4 @@ You can download the original datasource here: [Movie Dataset Excel file](https:
 2. Which top 5 actors were the most successful?
 3. Top 5 movies by Box and Budget?
 4. Seasonality?
+### Dashboard
