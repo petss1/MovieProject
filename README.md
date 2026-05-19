@@ -18,7 +18,7 @@ Netflix wants to better understand which movies they should produce next, includ
 The final dashboard should be clear, interactive, and visually compelling, enabling Netflix to make data-driven decisions.
 ### Data Source
 Movie dataset: The primary dataset used for this analysis is the "Movie Data Homework.xlsx" file, containing detailed information about each movie’s performance (box office and budget), actors, directors, etc.
-You can download the original datasource here: [Movie Dataset Excel file](https://github.com/user-attachments/files/28029206/Movie_Data.xlsx)
+You can download the original datasource here: [Movie Dataset Excel file]
 ### Tools
 1. Power Query - for Data Cleaning and Data Transformation
 2. Excel - for Data Analysis
@@ -28,11 +28,6 @@ You can download the original datasource here: [Movie Dataset Excel file](https:
 - Handling errors and missing values
 - Data cleaning and formatting. The excel file after the data cleaning and preparation process can be downloaded here: [Movie Dashboard](https://github.com/user-attachments/files/28029748/Movie_Dashboard.xlsx)
 
-### Questions for Data Analysis
-1. Which top 10 genres were the most successful (Box) these years?
-2. Which top 5 actors were the most successful?
-3. Top 5 movies by Box and Budget?
-4. Seasonality?
 ### Dashboard
 <img width="1194" height="463" alt="image" src="https://github.com/user-attachments/assets/f65621aa-f831-4bf5-845e-99a0f210ad35" />
 
@@ -84,7 +79,13 @@ in
     #"Changed Type2"
 ```
 ### Recomendations
-Top 5 genres are Actions, Comedy, etc. I would recommend Netflix to produce one of these genres as they brought in more in box office revenue based on the data from 2012 to 2016
+Based on box office revenue, Netflix should continue focusing on high-performing genres such as Action, Comedy, Drama, Sci-Fi, and Adventure.
 
 <img width="532" height="164" alt="image" src="https://github.com/user-attachments/assets/5da050a1-3c54-4ea3-b75a-337ecf8e4173" />
+
+However, Horror movies demonstrated the highest ROI, suggesting they can be a highly profitable option with lower production budgets.
+
+<img width="643" height="165" alt="image" src="https://github.com/user-attachments/assets/b38ed67b-8586-463a-abfe-e23538bd4c91" />
+
+
 
