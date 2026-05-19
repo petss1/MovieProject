@@ -17,3 +17,4 @@ Netflix wants to better understand which movies they should produce next, includ
 The final dashboard should be clear, interactive, and visually compelling, enabling Netflix to make data-driven decisions.
 ### Data Source
 Movie dataset: The primary dataset used for this analysis is the "Movie Data Homework.xlsx" file, containing detailed information about each movie’s performance (box office and budget), actors, directors, etc.
+You can download the original datasource here: [Movie Dataset Excel file](https://github.com/user-attachments/files/28029206/Movie_Data.xlsx)
