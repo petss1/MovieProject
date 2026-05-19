@@ -3,6 +3,7 @@
 [Problem Statement](#problem-statement)  
 [Data Source](#data-source)  
 [Tools](#tools)  
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)  
 [Dashboard](#dashboard)  
 [M Code](#m-code)  
 [Recomendations](#recomendations)  
@@ -24,6 +25,7 @@ You can download the original datasource here: [Movie Dataset Excel file](https:
 1. Power Query - for Data Cleaning and Data Transformation
 2. Excel - for Data Analysis
 3. Pivot Tables - for Creating the dashboard and Visualisations
+   
 ### Data Cleaning and Preparation
 - Data loading and inspection
 - Handling errors and missing values
